@@ -1,0 +1,7 @@
+C:\Users\yeray.blanco.aldao\source\repos\BibliotecaLibros\BibliotecaLibros\bin\Debug\BibliotecaLibros.exe.config
+C:\Users\yeray.blanco.aldao\source\repos\BibliotecaLibros\BibliotecaLibros\bin\Debug\BibliotecaLibros.exe
+C:\Users\yeray.blanco.aldao\source\repos\BibliotecaLibros\BibliotecaLibros\bin\Debug\BibliotecaLibros.pdb
+C:\Users\yeray.blanco.aldao\source\repos\BibliotecaLibros\BibliotecaLibros\obj\Debug\BibliotecaLibros.csproj.AssemblyReference.cache
+C:\Users\yeray.blanco.aldao\source\repos\BibliotecaLibros\BibliotecaLibros\obj\Debug\BibliotecaLibros.csproj.CoreCompileInputs.cache
+C:\Users\yeray.blanco.aldao\source\repos\BibliotecaLibros\BibliotecaLibros\obj\Debug\BibliotecaLibros.exe
+C:\Users\yeray.blanco.aldao\source\repos\BibliotecaLibros\BibliotecaLibros\obj\Debug\BibliotecaLibros.pdb
